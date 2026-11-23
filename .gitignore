@@ -39,4 +39,9 @@ Thumbs.db
 
 # Temporary files
 tempCodeRunnerFile.java
-temp*.java 
+temp*.java
+
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
